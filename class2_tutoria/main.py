@@ -1,0 +1,1 @@
+from modelado.persona import *
